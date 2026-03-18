@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+db.sqlite3
+*.db
+.idea/
+.vscode/
+outputs/cropped_plates/
+outputs/cropped_vehicles/
+outputs/annotated_frames/
+.DS_Store

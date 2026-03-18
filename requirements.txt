@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+pandas
+opencv-python
+easyocr
+ultralytics
+python-multipart
+pillow
+pytest
