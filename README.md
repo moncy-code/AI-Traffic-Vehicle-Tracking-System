@@ -191,6 +191,8 @@ python -m streamlit run dashboard/streamlit_app.py
 
 ### 🔎 Vehicle Search Result
 ![Search Result](screenshots/results_1.png)
+![Search Result](screenshots/results_2.png)
+
 
 ## 👨‍💻 Author
 
